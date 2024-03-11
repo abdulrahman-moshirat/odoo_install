@@ -23,7 +23,7 @@
 #instead of odoo use ur user name .EG OE_USER="mahmoud"
 OE_USER="odoo"
 OE_BRANCH="17.0"
-----
+
 # Add group
 groupadd $OE_USER
 # Add user
